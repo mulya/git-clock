@@ -1,4 +1,4 @@
-name := "git-hour"
+name := "git-clock"
 
 version := "1.0"
 
